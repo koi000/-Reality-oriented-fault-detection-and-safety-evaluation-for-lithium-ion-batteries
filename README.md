@@ -12,4 +12,4 @@
 ![Safety assessment](https://github.com/koi000/Reality-oriented-safety-evaluation-for-lithium-ion-batteries-based-on-probabilistic-detection/blob/main/Safety%20assessment%20result%20for%20EV%231.png)
 ### Fig.3 Safety assessment result for EV#1
 
-## If you use this dataset or method to do other researches, you need to cite this paper.
+## If you use this dataset or method to do other researches, you need to cite this paper. Li J, Che Y, Deng Z, Liu H, Zhang K, Zhuang Y, Hu X. Reality-oriented fault detection and safety evaluation for lithium-ion batteries using probabilistic machine learning.
